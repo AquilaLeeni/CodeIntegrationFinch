@@ -1,0 +1,11 @@
+--------------------------------------OUTPUT TXT VALUES----------------------------------- 
+TASK 4 FINCH ZIG ZAG OUTPUT DATA: 
+
+Below is the current time in HH:MM:SS format: 
+02:13:26
+20 this is amount of length of section
+4 this is number section
+34 this is the time taken in process
+13.2664991614216 this is the straight line distance between the start and finish
+80 this is the total distance traversed
+--------------------------------------OUTPUT TXT VALUES----------------------------------- 

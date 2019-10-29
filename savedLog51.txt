@@ -1,0 +1,2 @@
+Triangle 20 cm, 20 cm, 20 cm ( angle x: 60.00 angle y: 60.00 angle z: 60.00 ) Shape Size: 60 cm
+
